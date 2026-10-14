@@ -1,0 +1,6 @@
+{
+  "name": "Cybersonic: Neon Snake & Music Player",
+  "description": "A dark neon arcade experience combining a glowing retro Snake game with a real-time synthesized cyber music player and reactive audio visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
